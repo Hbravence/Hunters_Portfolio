@@ -1,3 +1,5 @@
+
+
 ## **🌟 Featured Projects**
 Explore some of my best work:
 
@@ -17,7 +19,49 @@ Explore some of my best work:
 🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
 
 
+## 💼 Professional Experience  
 
+### **Business Intelligence Anaylst – Intrepid Direct Insurance** _(June 2024 – March 2025)_  
+- **Inventory Report Development**  
+  - Designed a **data model star schema** using SQL views for structured reporting.  
+  - Created a **heat map calendar** to visualize usage trends over time.  
+  - Developed a system to **monitor and track report downtimes** for operational efficiency.  
+
+- **Iris Report – Prospect Dashboard**  
+  - Built a **prospect dashboard for the sales team** with advanced filtering options.  
+  - Designed a **state-based exclusion/inclusion filter** for targeted prospecting.  
+  - Developed an **interactive map** with drill-down functionality from **state to city level** for granular insights.  
+
+- **SQL & Stored Procedure Optimization**  
+  - Created and **modified existing stored procedures** to improve data processing efficiency.  
+  - Enhanced **data quality control measures** for optimized decision-making.  
+  - Built **SQL scripts** for state-specific data requests and regulatory reporting.  
+
+- **Executive Dashboards & Reporting**  
+  - Developed a **production dashboard** for executive-level insights.  
+  - Designed and maintained **SSRS reports** based on business requirements.  
+  - Implemented updates to **Power BI and SSRS reports** aligned with company objectives.  
+
+---
+
+
+### **Supply Chain Analyst – Outdoor Vista** _(August 2021 – May 2024)_  
+- **Reporting & Data Accuracy**  
+  - Managed weekly and monthly reports, ensuring accuracy and addressing stakeholder inquiries.  
+  - Automated **reporting workflows** using **SQL, Power BI, and Power Automate**, reducing manual work from **2 hours to 5 minutes**.  
+
+- **Business Intelligence & Dashboard Development**  
+  - Built **Power BI dashboards** to provide executive insights:  
+    - **Supply Gaps Dashboard** – Forecasted risks to revenue.  
+    - **Customer Service Dashboard** – Tracked workload & **order error ratios impacting OTIF**.  
+
+- **Forecasting & Predictive Analytics**  
+  - Used **RMSE** to improve demand planning accuracy.  
+  - Developed a **linear regression model** to forecast **inventory levels**, allowing purchasing plan adjustments that supported EBIT goals during economic downturns.  
+
+- **System & Data Migration**  
+  - Converted **AS400 reporting** to a new **NetSuite ERP system**.  
+  - Conducted **inventory turn calculations** to evaluate **Canada warehouse shutdown feasibility**.  
 
 ## 🏆 Certifications  
 
