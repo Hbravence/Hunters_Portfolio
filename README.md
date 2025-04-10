@@ -16,10 +16,16 @@ Explore some of my best work:
 - Optimizes **SARIMAX model hyperparameters** for better forecasting.
 🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
 
-### **⚙️ Automated Data Pipeline**
-- Builds an **ETL pipeline** for structured data ingestion.
-- Implements **Python-based workflows** for seamless automation.
-🔗 [View Project](https://your-link-here)
+### **⚙️ Realtors API**
+## 🛠 Data Processing  
+- **Retrieve real estate data** from the **Realtor.com API**.  
+- **Convert raw JSON responses** into a structured **Pandas DataFrame** for easy analysis.  
+
+## 🔍 Analysis & Insights  
+- **Market Price Evaluation** – Compare the **latest estimates** vs. **actual asking prices**.  
+- **Feature Correlation** – Analyze how the **number of beds, baths, and square footage** impacts pricing.  
+ 
+🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
 
 ---
 
