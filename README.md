@@ -1,11 +1,3 @@
-# Hunters_Portfolio
-
-
-- [Realtors API Anaylsis](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
-
-   Sure! Here’s a clean and structured format for a Markdown file that you can use for your GitHub Pages README.md or any other documentation:
-# **Hunter's Data Science Portfolio**
-🚀 Welcome to my portfolio, where I showcase **data analysis, forecasting, and technical projects**.
 
 ## **🌟 Featured Projects**
 Explore some of my best work:
