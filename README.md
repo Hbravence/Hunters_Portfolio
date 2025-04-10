@@ -3,12 +3,52 @@
 ## Projects
 - [Realtors API Anaylsis](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
 - [Stock Forecasting Script](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
-    Stock Price Forecasting with SARIMAX
-📈 A predictive modeling project using Yahoo Finance API to retrieve stock price data, converting raw JSON into a Pandas DataFrame for structured analysis.
-🔍 Data Cleaning & Preparation → Removing inconsistencies, handling missing values, and preparing data for seasonal trend analysis.
-📊 Exploratory Analysis → Determining if stock prices exhibit seasonality and stationarity, guiding model selection.
-🎛 Hyperparameter Tuning → Optimizing SARIMAX parameters for enhanced forecasting accuracy.
-🔮 Future Forecasting → Selecting the best-fit model and generating stock price predictions.
+   Sure! Here’s a clean and structured format for a Markdown file that you can use for your GitHub Pages README.md or any other documentation:
+# **Hunter's Data Science Portfolio**
+🚀 Welcome to my portfolio, where I showcase **data analysis, forecasting, and technical projects**.
+
+## **🌟 Featured Projects**
+Explore some of my best work:
+
+### **📊 Stock Forecasting with SARIMAX**
+- Uses **Yahoo Finance API** to retrieve stock data.
+- Cleans, analyzes, and tests for **seasonality & stationarity**.
+- Optimizes **SARIMAX model hyperparameters** for better forecasting.
+🔗 [View Project](https://your-link-here)
+
+### **⚙️ Automated Data Pipeline**
+- Builds an **ETL pipeline** for structured data ingestion.
+- Implements **Python-based workflows** for seamless automation.
+🔗 [View Project](https://your-link-here)
+
+---
+
+## **🎓 Certifications & Education**
+✅ **Google Data Engineer Certification** _(Renewing soon!)_  
+✅ **Data Analyst Bootcamp (2020)**  
+✅ **Advanced Data Analytics Training (Udemy)**  
+
+---
+
+## **🔗 How to Explore This Portfolio**
+- Visit the **Projects Page** for in-depth explanations.
+- Browse **Notebooks & Code** to see hands-on implementations.
+- Check out my **Blog** for insights on **data trends & techniques**.
+
+---
+
+## **📬 Contact & Links**
+📧 **Hunter** – [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+🔗 [GitHub Pages Portfolio](https://your-github-pages-link)  
+🔗 [Main GitHub Repository](https://github.com/your-username)  
+
+---
+This Markdown format ensures a **clean, professional, and engaging layout**.  
+Would you like help adding images, styling elements, or additional sections to make it more visually appealing?  
+You could even include **interactive notebooks** or project thumbnails to enhance navigation! 🚀  
+
+
+
 
 
 ## Credentials 
