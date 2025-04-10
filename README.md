@@ -16,12 +16,9 @@ Explore some of my best work:
 - Optimizes **SARIMAX model hyperparameters** for better forecasting.
 🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
 
-### **⚙️ Realtors API**
-#### 🛠 Data Processing  
+### **⚙️ Realtors API**  
 - **Retrieve real estate data** from the **Realtor.com API**.  
-- **Convert raw JSON responses** into a structured **Pandas DataFrame** for easy analysis.  
-
-#### 🔍 Analysis & Insights  
+- **Convert raw JSON responses** into a structured **Pandas DataFrame** for easy analysis.    
 - **Market Price Evaluation** – Compare the **latest estimates** vs. **actual asking prices**.  
 - **Feature Correlation** – Analyze how the **number of beds, baths, and square footage** impacts pricing.  
  
