@@ -21,7 +21,7 @@ Explore some of my best work:
 
 ## 🏆 Certifications  
 
-These certifications demonstrate my expertise in **data analytics, forecasting, cloud infrastructure, and business intelligence**.
+These certifications demonstrate my expertise in **data analytics, cloud infrastructure, and business intelligence**.
 
 ### 📊 **Microsoft Certified: Power BI Data Analyst Associate**  
 ✅ Proficient in **Power BI**, data modeling, and dashboard creation.  
@@ -34,7 +34,7 @@ These certifications demonstrate my expertise in **data analytics, forecasting, 
 🔗 [View Certification](https://learn.microsoft.com/api/credentials/share/en-us/Hunter-4438/10D8D2BE128E740?sharingId=814368B9FE402D82)  
 
 ### 🎓 **Data Analyst Nanodegree (Udacity)**  
-✅ Hands-on training in **data wrangling, SQL querying, and statistical analysis**.  
+✅ Hands-on training in **data wrangling, python development, and statistical analysis**.  
 ✅ Developed **real-world projects** focused on exploratory data analysis and visualization.  
 🔗 [View Certification](https://www.udacity.com/certificate/e/ad57b69a-87f9-11ea-946c-0b56a632aecd)  
 
