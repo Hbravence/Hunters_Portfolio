@@ -1,8 +1,8 @@
 # Hunters_Portfolio
 
-## Projects
+
 - [Realtors API Anaylsis](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
-- [Stock Forecasting Script](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
+
    Sure! Here’s a clean and structured format for a Markdown file that you can use for your GitHub Pages README.md or any other documentation:
 # **Hunter's Data Science Portfolio**
 🚀 Welcome to my portfolio, where I showcase **data analysis, forecasting, and technical projects**.
@@ -14,7 +14,7 @@ Explore some of my best work:
 - Uses **Yahoo Finance API** to retrieve stock data.
 - Cleans, analyzes, and tests for **seasonality & stationarity**.
 - Optimizes **SARIMAX model hyperparameters** for better forecasting.
-🔗 [View Project](https://your-link-here)
+🔗 [View Project]((https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb))
 
 ### **⚙️ Automated Data Pipeline**
 - Builds an **ETL pipeline** for structured data ingestion.
