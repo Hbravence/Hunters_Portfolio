@@ -48,7 +48,7 @@ Explore some of my best work:
 ### **Supply Chain Analyst – Outdoor Vista** _(August 2021 – May 2024)_  
 - **Reporting & Data Accuracy**  
   - Managed weekly and monthly reports, ensuring accuracy and addressing stakeholder inquiries.  
-  - Automated **reporting workflows** using **SQL, Power BI, and Power Automate**, reducing manual work from **2 hours to 5 minutes**.  
+  - Automated **reporting workflows** using **SQL, Power Query, and Power Automate**, reducing manual work from **2 hours to 5 minutes**.  
 
 - **Business Intelligence & Dashboard Development**  
   - Built **Power BI dashboards** to provide executive insights:  
@@ -59,9 +59,6 @@ Explore some of my best work:
   - Used **RMSE** to improve demand planning accuracy.  
   - Developed a **linear regression model** to forecast **inventory levels**, allowing purchasing plan adjustments that supported EBIT goals during economic downturns.  
 
-- **System & Data Migration**  
-  - Converted **AS400 reporting** to a new **NetSuite ERP system**.  
-  - Conducted **inventory turn calculations** to evaluate **Canada warehouse shutdown feasibility**.  
 
 ## 🏆 Certifications  
 
@@ -88,16 +85,9 @@ These certifications demonstrate my expertise in **data analytics, cloud infrast
 ✅ Advanced skills in **data modeling, performance optimization, and security best practices**.  
 🔗 [View Certification](https://www.credly.com/badges/6b3153dd-eea2-4aa5-a91f-69177d41f508) _(Previously earned, renewal in progress)_  
 
----
-
-### 🔗 **Why These Certifications Matter**  
-These certifications **validate my technical expertise** in cloud computing, data engineering, and business intelligence. While my Google Data Engineer certification has expired, I am **actively preparing for recertification** to stay up to date with the latest advancements.  
 
 ---
 
-
-
----
 
 
 ## **📬 Contact & Links**
