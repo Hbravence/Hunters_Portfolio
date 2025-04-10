@@ -17,12 +17,42 @@ Explore some of my best work:
  
 🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
 
+
+
+
+ ## 🏆 Certifications  
+
+These certifications demonstrate my expertise in **data analytics, forecasting, cloud infrastructure, and business intelligence**.
+
+### 📊 **Microsoft Certified: Power BI Data Analyst Associate**  
+✅ Proficient in **Power BI**, data modeling, and dashboard creation.  
+✅ Experienced in **data transformation, DAX calculations, and report optimization**.  
+🔗 [View Certification](https://learn.microsoft.com/api/credentials/share/en-us/Hunter-4438/119EEC522867D2F6?sharingId=814368B9FE402D82)  
+
+### ☁️ **Microsoft Certified: Azure Data Fundamentals**  
+✅ Strong understanding of **Azure data services, cloud storage, and relational databases**.  
+✅ Skilled in **data governance, security, and AI-powered analytics**.  
+🔗 [View Certification](https://learn.microsoft.com/api/credentials/share/en-us/Hunter-4438/10D8D2BE128E740?sharingId=814368B9FE402D82)  
+
+### 🎓 **Data Analyst Nanodegree (Udacity)**  
+✅ Hands-on training in **data wrangling, SQL querying, and statistical analysis**.  
+✅ Developed **real-world projects** focused on exploratory data analysis and visualization.  
+🔗 [View Certification](https://www.udacity.com/certificate/e/ad57b69a-87f9-11ea-946c-0b56a632aecd)  
+
+### 🔧 **Google Professional Data Engineer Certification** _(Expired, Planning to Recertify)_  
+✅ Expertise in **data pipeline design, cloud infrastructure, and machine learning workflows**.  
+✅ Hands-on experience with **Google Cloud services**, including **BigQuery, Dataflow, and Pub/Sub**.  
+✅ Advanced skills in **data modeling, performance optimization, and security best practices**.  
+🔗 [View Certification](https://www.credly.com/badges/6b3153dd-eea2-4aa5-a91f-69177d41f508) _(Previously earned, renewal in progress)_  
+
 ---
 
-## **🎓 Certifications & Education**
-✅ **Google Data Engineer Certification** _(Renewing soon!)_  
-✅ **Data Analyst Bootcamp (2020)**  
-✅ **Advanced Data Analytics Training (Udemy)**  
+### 🔗 **Why These Certifications Matter**  
+These certifications **validate my technical expertise** in cloud computing, data engineering, and business intelligence. While my Google Data Engineer certification has expired, I am **actively preparing for recertification** to stay up to date with the latest advancements.  
+
+---
+
+
 
 ---
 
@@ -47,7 +77,3 @@ You could even include **interactive notebooks** or project thumbnails to enhanc
 
 
 
-## Credentials 
-- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/Hunter-4438/119EEC522867D2F6?sharingId=814368B9FE402D82)
-- [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Hunter-4438/10D8D2BE128E740?sharingId=814368B9FE402D82)
-- [Data Analyst Nanodegree Udacity](https://www.udacity.com/certificate/e/ad57b69a-87f9-11ea-946c-0b56a632aecd)
