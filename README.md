@@ -1,4 +1,3 @@
-
 ## **🌟 Featured Projects**
 Explore some of my best work:
 
@@ -20,7 +19,7 @@ Explore some of my best work:
 
 
 
- ## 🏆 Certifications  
+## 🏆 Certifications  
 
 These certifications demonstrate my expertise in **data analytics, forecasting, cloud infrastructure, and business intelligence**.
 
