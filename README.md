@@ -14,6 +14,7 @@ Explore some of my best work:
 - Uses **Yahoo Finance API** to retrieve stock data.
 - Cleans, analyzes, and tests for **seasonality & stationarity**.
 - Optimizes **SARIMAX model hyperparameters** for better forecasting.
+  
 🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
 
 ### **⚙️ Realtors API**  
