@@ -17,11 +17,11 @@ Explore some of my best work:
 🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
 
 ### **⚙️ Realtors API**
-## 🛠 Data Processing  
+#### 🛠 Data Processing  
 - **Retrieve real estate data** from the **Realtor.com API**.  
 - **Convert raw JSON responses** into a structured **Pandas DataFrame** for easy analysis.  
 
-## 🔍 Analysis & Insights  
+#### 🔍 Analysis & Insights  
 - **Market Price Evaluation** – Compare the **latest estimates** vs. **actual asking prices**.  
 - **Feature Correlation** – Analyze how the **number of beds, baths, and square footage** impacts pricing.  
  
