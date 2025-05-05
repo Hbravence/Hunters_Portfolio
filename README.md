@@ -94,14 +94,7 @@ These certifications demonstrate my expertise in **data analytics, cloud infrast
 🔗 [View Certification](https://www.credly.com/badges/6b3153dd-eea2-4aa5-a91f-69177d41f508) _(Previously earned, renewal in progress)_  
 
 
----
 
-
-
-## **📬 Contact & Links**
-📧 **Hunter** – [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🔗 [GitHub Pages Portfolio](https://your-github-pages-link)  
-🔗 [Main GitHub Repository](https://github.com/your-username)  
 
 ---
 
