@@ -3,6 +3,14 @@
 ## **🌟 Featured Projects**
 Explore some of my best work:
 
+## 🕵️ IMDb Top 250 Web Scraping  
+
+- **Scraping Method** – Extracts **dynamically loaded data** using **Selenium** instead of traditional requests-based scraping.  
+- **Key Insight** – Determines **1994** as the most frequently occurring release year in the IMDb Top 250.  
+- **Data Storage** – Saves results as a **CSV file**.
+
+🔗 [View Project](https://github.com/Hbravence/WebScrape_IMDB/tree/main)
+
 ### **📊 Stock Forecasting with SARIMAX**
 - Uses **Yahoo Finance API** to retrieve stock data.
 - Cleans, analyzes, and tests for **seasonality & stationarity**.
