@@ -3,6 +3,14 @@
 ## **🌟 Featured Projects**
 Explore some of my best work:
 
+### **📝 Yelp Sentiment Analysis vs. Star Ratings**
+- **Data Collection** – Extracts Yelp reviews using **SerpApi** and normalizes responses into a **structured DataFrame**.
+- **Sentiment Analysis** – Applies **VADER lexicon** to classify reviews into **Positive, Neutral, Negative**, and **Compound** scores.
+- **Key Finding** – Sentiment **does not always correlate** with the **star rating system**, highlighting potential biases in customer reviews.
+- **Future Improvements** – Plans to refine analysis using **BERT/RoBERTa models** and integrate **spaCy’s Named Entity Recognition (NER)** to identify themes in customer feedback.
+
+🔗 [View Project]([your_project_link_here](https://github.com/Hbravence/Yelp_Reviews))
+
 ## 🕵️ IMDb Top 250 Web Scraping  
 
 - **Scraping Method** – Extracts **dynamically loaded data** using **Selenium** instead of traditional requests-based scraping.  
@@ -16,7 +24,7 @@ Explore some of my best work:
 - Cleans, analyzes, and tests for **seasonality & stationarity**.
 - Optimizes **SARIMAX model hyperparameters** for better forecasting.
   
-🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main/AMZN_Forecasting.ipynb)
+🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main)
 
 ### **⚙️ Realtors API**  
 - **Retrieve real estate data** from the **Realtor.com API**.  
@@ -24,7 +32,7 @@ Explore some of my best work:
 - **Market Price Evaluation** – Compare the **latest estimates** vs. **actual asking prices**.  
 - **Feature Correlation** – Analyze how the **number of beds, baths, and square footage** impacts pricing.  
  
-🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main/Realtor_Data_Scrape.ipynb)
+🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main)
 
 
 ## 💼 Professional Experience  
