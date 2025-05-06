@@ -9,7 +9,7 @@ Explore some of my best work:
 - **Key Finding** – Sentiment **does not always correlate** with the **star rating system**, highlighting potential biases in customer reviews.
 - **Future Improvements** – Plans to refine analysis using **BERT/RoBERTa models** and integrate **spaCy’s Named Entity Recognition (NER)** to identify themes in customer feedback.
 
-🔗 [View Project]([your_project_link_here](https://github.com/Hbravence/Yelp_Reviews))
+🔗 [View Project](https://github.com/Hbravence/Yelp_Reviews/tree/main)
 
 ## 🕵️ IMDb Top 250 Web Scraping  
 
