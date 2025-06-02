@@ -34,6 +34,16 @@ Explore some of my best work:
 - **Random Forest** -- Used number of beds, baths, square footage as features to predict price.  
  
 🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main)
+
+## 🚀 Java FBA Orders
+- **Tech Stack** – Java, Maven, AWS Lambda, AWS S3, API integration  
+- **Key Functionality** – This project implements a serverless pipeline using AWS Lambda to extract and store Amazon's Seller API data in S3  
+- **Business Impact** – Was meant to be an automated way to extract order information.   
+- **Challenges & Learnings** – Experimented with multiple versions for cloud architecture.   
+- **Future Enhancements** – Forecasting orders in Python for actionable insights 
+
+🔗 [View Project](https://github.com/Hbravence/FBA_Orders_API)
+
  
 
 
