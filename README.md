@@ -37,10 +37,13 @@ Explore some of my best work:
 
 ## 🚀 Java FBA Orders
 - **Tech Stack** – Java, Maven, AWS Lambda, AWS S3, API integration  
-- **Key Functionality** – This project implements a serverless pipeline using AWS Lambda to extract and store Amazon's Seller API data in S3  
-- **Business Impact** – Was meant to be an automated way to extract order information.   
-- **Challenges & Learnings** – Experimented with multiple versions for cloud architecture.   
-- **Future Enhancements** – Forecasting orders in Python for actionable insights 
+- **Key Functionality** – Implements a serverless pipeline using AWS Lambda to extract and store Amazon Seller API data in S3  
+- **Business Impact** –  
+  - **Automates** the extraction of order data, reducing manual processing time and minimizing human error  
+  - **Scales efficiently**, allowing seamless data collection for high-volume transactions without additional infrastructure costs  
+  - **Enhances operational insights**, enabling businesses to track order trends and optimize fulfillment strategies  
+- **Challenges & Learnings** – Experimented with multiple versions for cloud architecture  
+- **Future Enhancements** – Forecasting orders in Python for actionable insights  
 
 🔗 [View Project](https://github.com/Hbravence/FBA_Orders_API)
 
