@@ -3,6 +3,33 @@
 ## **🌟 Featured Projects**
 Explore some of my best work:
 
+## 🌐 Driver-Side Alpha (DSA)
+
+### Overview  
+A predictive analytics platform that identifies high-demand windows for rideshare drivers by clustering **event** and **flight data**. Designed for modular deployment across cities, with emotionally literate architecture and scalable cloud integration.
+
+### Data Sources  
+- **SeatGeek API** – Weekly event data  
+- **Flight Schedule API** – Weekly flight arrival/departure data
+
+### Modeling & Clustering  
+- **Flight data**: clustered using **Mean-Shift** for time-density analysis  
+- **Event data**: clustered using **DBSCAN** with **Haversine logic** for geospatial grouping
+
+### Visualization  
+- Built with **Dash + Plotly**  
+- Interactive dashboards per city  
+- Geospatial maps for event clusters  
+- Timeline graphs for flight density windows  
+- Modular Python functions for reusable UI components
+
+### Design Intent  
+- Each city functions as a node with localized pipelines  
+- Architecture supports multi-city scaling and cloud-native migration (AWS S3 + Athena)  
+- Reflects Hunter’s ethos of **modular living, emotional sovereignty, and design coherence**
+
+🔗 * [View Project](https://github.com/Hbravence/Driver_Side_Alpha/tree/main)
+
 ### **📝 Yelp Sentiment Analysis vs. Star Ratings**
 - **Data Collection** – Extracts Yelp reviews using **SerpApi** and normalizes responses into a **structured DataFrame**.
 - **Sentiment Analysis** – Applies **VADER lexicon** to classify reviews into **Positive, Neutral, Negative**, and **Compound** scores.
