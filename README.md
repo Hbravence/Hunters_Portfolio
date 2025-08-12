@@ -1,79 +1,94 @@
 
 
-## **🌟 Featured Projects**
-Explore some of my best work:
+# 🌟 Featured Projects  
+Explore a curated selection of modular systems and predictive analytics.
+
+---
 
 ## 🌐 Driver-Side Alpha (DSA)
 
-### Overview  
-A predictive analytics platform that identifies high-demand windows for rideshare drivers by clustering **event** and **flight data**. Designed for modular deployment across cities, with emotionally literate architecture and scalable cloud integration.
+**Overview**  
+A predictive analytics platform that identifies high-demand windows for rideshare drivers by clustering **event** and **flight data**. Designed for modular deployment across cities and scalable cloud integration.
 
-### Data Sources  
+**Data Sources**  
 - **SeatGeek API** – Weekly event data  
 - **Flight Schedule API** – Weekly flight arrival/departure data
 
-### Modeling & Clustering  
+**Modeling & Clustering**  
 - **Flight data**: clustered using **Mean-Shift** for time-density analysis  
 - **Event data**: clustered using **DBSCAN** with **Haversine logic** for geospatial grouping
 
-### Visualization  
+**Visualization**  
 - Built with **Dash + Plotly**  
 - Interactive dashboards per city  
 - Geospatial maps for event clusters  
 - Timeline graphs for flight density windows  
 - Modular Python functions for reusable UI components
 
-### Design Intent  
+**Design Intent**  
 - Each city functions as a node with localized pipelines  
 - Architecture supports multi-city scaling and cloud-native migration (AWS S3 + Athena)  
 - Reflects Hunter’s ethos of **modular living, emotional sovereignty, and design coherence**
 
-🔗 * [View Project](https://github.com/Hbravence/Driver_Side_Alpha/tree/main)
+🔗 [View Project](https://github.com/Hbravence/Driver_Side_Alpha/tree/main)
 
-### **📝 Yelp Sentiment Analysis vs. Star Ratings**
-- **Data Collection** – Extracts Yelp reviews using **SerpApi** and normalizes responses into a **structured DataFrame**.
-- **Sentiment Analysis** – Applies **VADER lexicon** to classify reviews into **Positive, Neutral, Negative**, and **Compound** scores.
-- **Key Finding** – Sentiment **does not always correlate** with the **star rating system**, highlighting potential biases in customer reviews.
-- **Future Improvements** – Plans to refine analysis using **BERT/RoBERTa models** and integrate **spaCy’s Named Entity Recognition (NER)** to identify themes in customer feedback.
+---
+
+## 📝 Yelp Sentiment Analysis vs. Star Ratings
+
+- **Data Collection** – Extracts Yelp reviews using **SerpApi** and normalizes responses into a structured **DataFrame**  
+- **Sentiment Analysis** – Applies **VADER lexicon** to classify reviews into **Positive, Neutral, Negative**, and **Compound** scores  
+- **Key Finding** – Sentiment does not always correlate with star ratings, revealing bias in customer feedback  
+- **Future Improvements** – Plans to refine analysis using **BERT/RoBERTa** and integrate **spaCy NER** to extract themes
 
 🔗 [View Project](https://github.com/Hbravence/Yelp_Reviews/tree/main)
 
-## 🕵️ IMDb Top 250 Web Scraping  
+---
 
-- **Scraping Method** – Extracts **dynamically loaded data** using **Selenium** instead of traditional requests-based scraping.  
-- **Key Insight** – Determines **1994** as the most frequently occurring release year in the IMDb Top 250.  
-- **Data Storage** – Saves results as a **CSV file**.
+## 🕵️ IMDb Top 250 Web Scraping
+
+- **Scraping Method** – Uses **Selenium** to extract dynamically loaded data  
+- **Key Insight** – Identifies **1994** as the most frequent release year in IMDb’s Top 250  
+- **Data Storage** – Saves results as a **CSV file**
 
 🔗 [View Project](https://github.com/Hbravence/WebScrape_IMDB/tree/main)
 
-### **📊 Stock Forecasting with SARIMAX**
-- Uses **Yahoo Finance API** to retrieve stock data.
-- Cleans, analyzes, and tests for **seasonality & stationarity**.
-- Optimizes **SARIMAX model hyperparameters** for better forecasting.
-  
+---
+
+## 📊 Stock Forecasting with SARIMAX
+
+- Retrieves stock data via **Yahoo Finance API**  
+- Cleans, analyzes, and tests for **seasonality & stationarity**  
+- Optimizes **SARIMAX model hyperparameters** for improved forecasting
+
 🔗 [View Project](https://github.com/Hbravence/AMZN_Forecasting/blob/main)
 
-### **⚙️ Realtors API**  
-- **Retrieve real estate data** from the **Realtor.com API**.  
-- **Convert raw JSON responses** into a structured **Pandas DataFrame** for easy analysis.    
-- **Market Price Evaluation** – Compare the **latest estimates** vs. **actual asking prices**.  
-- **Feature Correlation** – Analyze how the **number of beds, baths, and square footage** impacts pricing.
-- **Random Forest** -- Used number of beds, baths, square footage as features to predict price.  
- 
+---
+
+## ⚙️ Realtors API
+
+- Retrieves real estate data from the **Realtor.com API**  
+- Converts raw JSON into a structured **Pandas DataFrame**  
+- **Market Price Evaluation** – Compares latest estimates vs. asking prices  
+- **Feature Correlation** – Analyzes how beds, baths, and square footage impact pricing  
+- **Random Forest** – Predicts price using core features
+
 🔗 [View Project](https://github.com/Hbravence/Realtors_api_anaylsis/blob/main)
 
+---
+
 ## 🚀 Java FBA Orders
-- **Tech Stack** – Java, Maven, AWS Lambda, AWS S3, API integration  
-- **Key Functionality** – Implements a serverless pipeline using AWS Lambda to extract and store Amazon Seller API data in S3  
-- **Business Impact** –  
-  - **Automates** the extraction of order data, reducing manual processing time and minimizing human error  
-  - **Scales efficiently**, allowing seamless data collection for high-volume transactions without additional infrastructure costs  
-  - **Enhances operational insights**, enabling businesses to track order trends and optimize fulfillment strategies  
-- **Challenges & Learnings** – Experimented with multiple versions for cloud architecture  
-- **Future Enhancements** – Forecasting orders in Python for actionable insights  
+
+- **Tech Stack** – Java, Maven, AWS Lambda, AWS S3, Amazon Seller API  
+- **Key Functionality** – Serverless pipeline extracts and stores order data in S3  
+- **Business Impact**  
+  - Automates data extraction, reducing manual errors  
+  - Scales for high-volume transactions  
+  - Enhances operational insights for fulfillment optimization  
+- **Challenges & Learnings** – Iterated cloud architecture for performance  
+- **Future Enhancements** – Add Python-based forecasting layer
 
 🔗 [View Project](https://github.com/Hbravence/FBA_Orders_API)
-
  
 
 
